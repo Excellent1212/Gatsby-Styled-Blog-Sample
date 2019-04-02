@@ -2,7 +2,6 @@ This project is discontinued, but hey there is a successor. Take a look at [gats
 
 # StyledBlog starter for Gatsby
 
-[DEMO website](https://gsbs.greglobinski.com/)
 
 ![](static/screens/demo-screencast.gif)
 
@@ -45,7 +44,6 @@ have already went through with the
 `gatsby new` command.
 
 ```
-gatsby new [NEW_SITE_DIRECTORY_FOR_YOUR_BLOG] https://github.com/greglobinski/gatsby-styled-blog-starter.git
 ```
 
 ## Customization
@@ -59,7 +57,6 @@ module.exports = {
   pathPrefix: "/",
   siteTitle: "Gatsby StyledBlog starter",
   siteLongTitle: "Gatsby StyledBlog Theme/Starter",
-  siteUrl: "https://gsbs.greglobinski.com",
   siteLanguage: "en",
   siteLogo: "/logos/logo-1024.png",
   siteDescription: "This is a starter/theme for GatsbyJS",
